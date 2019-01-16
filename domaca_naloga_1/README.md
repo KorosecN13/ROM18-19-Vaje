@@ -37,6 +37,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) ZacetekVaj
 - (9) 15minutOdmora
 - (10) domjanic77
+- (12) KorosecN13
 - (14) mitjamori
 - (15) DenisBencic
 - (16) leon997
@@ -62,6 +63,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (11) TPogacar
 - (12) DenisBencic
 - (13) leon997
+- (14) KorosecN13
 - (18) jemecema
 
 ### [Učni list - Potence.pdf](https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf)
@@ -114,6 +116,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) ZacetekVaj
 - (9) 15minutOdmora
 - (10) KlemenSkukan
+- (14) KorosecN13
 - (32) urskabaskovic
 - (33) mitjamori
 - (35) maja12345678910
@@ -173,6 +176,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (3) lapajnea
 - (4) spelaster
 - (5) DjansS
+- (6) KorosecN13
 - (11) TeaKn
 - (13) ursagabrovec
 
@@ -220,6 +224,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) Argonfmf
 - (3) MilicaNedovic
 - (4) leon997
+- (5) KorosecN13
 - (6) domjanic77
 - (7) Gorlar 
 - (8) petra1111
@@ -250,6 +255,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Kvadratna funkcija.pdf](https://www.sc-nm.si/sss/file/open/763_ef3adea10a46/U%C4%8Dni%20list%20-%20Kvadratna%20funkcija.pdf)
 - (1) SmokeyAjax
 - (3) KonecVaj
+- (5) KorosecN13
 - (8) mitjamori
 - (9) Gorlar
 - (13) Errick0
@@ -262,6 +268,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### [Učni list - Ploščine geometrijskih likov.pdf](https://www.sc-nm.si/sss/si/file/download/790_96f4e0ca1618/U%C4%8Dni%20list%20-%20Plo%C5%A1%C4%8Dine%20geometrijskih%20likov.pdf)
 - (1) SmokeyAjax
+- (2) KorosecN13
 - (13) Errick0
 - (46) BacekJon
 - (47) spelaster
@@ -306,6 +313,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### [Učni list - Polinomi - 2.pdf](https://www.sc-nm.si/sss/si/file/download/788_0fdf4f486b6d/U%C4%8Dni%20list%20-%20Polinomi%20-%202.pdf)
 - (1) SmokeyAjax
+- (6) KorosecN13
 - (11) Gorlar
 - (13) TeaKn
 - (14) ZačetekVaj
@@ -329,6 +337,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Statistika.pdf](https://www.sc-nm.si/sss/si/file/download/873_168df75559af/U%C4%8Dni%20list%20-%20Statistika.pdf)
 - (2) 15minutOdmora
 - (4) PeterStatevskiTheStarBoy
+- (10) KorosecN13
 
 ### [Učni list - Kotne funkcije - 1.pdf](https://www.sc-nm.si/sss/file/open/607_ebc9fb02d961/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20-%201.pdf)
 - (1) MilicaNedovic
@@ -351,7 +360,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (26) PeterFMF
 
 ### [Učni list - Odvod - 2.pdf](https://www.sc-nm.si/sss/file/open/679_5e99e424f4c3/U%C4%8Dni%20list%20-%20Odvod%20-%202.pdf)
-- (1) uporabnisko_ime_1
+- (1) KorosecN13
 - (2) uporabnisko_ime_2
 - ... 
 
@@ -364,11 +373,13 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### [Učni list - Aritmetična zaporedja.pdf](https://www.sc-nm.si/sss/file/open/674_10a6c0649077/U%C4%8Dni%20list%20-%20Aritmeti%C4%8Dna%20zaporedja.pdf)
 - (1) 15minutOdmora
+- (2) KorosecN13
 - (3) piploli
 
 ### [Učni list - Geometrijska zaporedja.pdf](https://www.sc-nm.si/sss/file/open/675_f059fbb98d3b/U%C4%8Dni%20list%20-%20Geometrijska%20zaporedja.pdf)
 - (1) 15minutOdmora
 - (3) piploli
+- (9) KorosecN13
 
 ### [Učni list - Kombinatorika in verjetnost.pdf](https://www.sc-nm.si/sss/si/file/download/787_ba06a1c33ae9/U%C4%8Dni%20list%20-%20Kombinatorika%20in%20verjetnost.pdf)
 - (5) TeaKn
